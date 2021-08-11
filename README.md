@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Fateen
 - 👀 I’m interested in competitive programming, learning new stuff :)
-- 🌱 I’m currently learning about memory and data structures in c
+- 🌱 I’m currently interning at the ITSC in the University of Cincinnati
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .... ibrahim03fateen@gmail.com
 
